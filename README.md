@@ -5,4 +5,4 @@ Documento criado como trabalho da disciplina de Sistemas Operacionais da Univers
 Alunos:<br>
 Aysllan Teixeira Lembi<br>
 Filipe Mendes Webber<br>
-Itamar de Azevedo Júnior<br>
+Itamar Júnior de Azevedo<br>
